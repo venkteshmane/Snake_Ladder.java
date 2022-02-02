@@ -2,7 +2,7 @@ package snakeladder;
 
 public class snake_ladder_UC1 {
 
-	public static void main(String[] args) {
+	 public static void main(String[] args) {
 		int playerPosition = 0;
 	    System.out.println("Welcome to Snake Ladder Program");
 
